@@ -28,7 +28,7 @@
     "boolean": {
       "tests": [
         {
-            "desc": "xor, not instructions",
+            "desc": "and, not instructions",
             "args": [
                 "-c", "10",
                 "-ic", "0,reset=1:1,reset=0",
