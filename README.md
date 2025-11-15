@@ -1,6 +1,8 @@
 # CPU in Logicism
 
-This is a fully functional CPU :)
+This is a fully functional CPU. Made as a part of my Computer Architecture class at Duke :)
+
+<img width="1197" height="512" alt="Screenshot 2025-11-14 at 23 53 11" src="https://github.com/user-attachments/assets/c2ffd70b-897d-4b56-b604-f26ec5304832" />
 
 ## A few more notes
 - This CPU takes in three types of instructions: R, I, and J types with 16 bit instructions.
